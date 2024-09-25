@@ -1,5 +1,5 @@
 # 👋Olá devs!
-## :woman: Sobre mimç
+## :woman: Sobre mim
 <p>:round_pushpin: Manaus-AM, Brasil. <br/>
 :mortar_board: Sou técnica em informática formada pelo Instituto Federal do Amazonas – IFAM<br/>
 :books: Atualmente, estou cursando Engenharia da Computação na Universidade do Estado do Amazonas - UEA<br/>
